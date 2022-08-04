@@ -7,6 +7,7 @@ You need one or two lists of words, then script takes random two words to be mer
 
 ### Running
 python auto.py com 10 7
-Where: - com is TLD for DNS;
-       - 10 is qty of DNS to be created;
-       - 7 length of DNS without TLD
+Where:
+- com is TLD for DNS;
+- 10 is qty of DNS to be created;
+- 7 length of DNS without TLD
