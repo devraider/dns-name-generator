@@ -1,4 +1,4 @@
-# DNS name generator
+# DNS Name Generator
 ### Reason
 It's a great tool for email marketers who are struggleing to generate real DNS names.
 
